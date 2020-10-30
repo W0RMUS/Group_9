@@ -1,10 +1,10 @@
 # Assignment 2: Machine Learning
 
 Group 9:
-Henry Tran (s905398)
-Markus Einan (s315297)
-Benjamin Haug Weel (s331365)
-Edvard Tollefsrud (s331390)
+- Henry Tran (s905398)
+- Markus Einan (s315297)
+- Benjamin Haug Weel (s331365)
+- Edvard Tollefsrud (s331390)
 
 We have chosen the stock market prediction use case.
 
