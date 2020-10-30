@@ -12,4 +12,4 @@ We belive it would be best to do this use case using a linear regression algorit
 The reason why we have chosen this is because we are looking at a linear model where
 there is a constant relationship between time and price. And in this assignment we are 
 looking for a specific price at a specific time, where the date is the input 
-and the closing price of the stock is the output.
+and the closing price of the stock on that date is the output.
